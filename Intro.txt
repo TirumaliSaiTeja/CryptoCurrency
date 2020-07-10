@@ -1,0 +1,137 @@
+ERC-20 Token:
+
+The Ethereum blockchain allows you to create your own cryptocurrency, or token, that can be purchased with Ether, the native cryptocurrency of the Ethereum blockchain. 
+ERC-20 is simply a standard that specifies how these tokens behave, so that they are compatible with other platforms like cryptocurrency exchanges.
+
+Ethereum is a blockchain like Bitcoin. Like Bitcoin, Ethereum keeps track of account balances for people who own Ether, Ethereum’s native cryptocurrency. Unlike Bitcoin, Ethereum is also a platform that
+allows you to create your own token without creating a new blockchain.
+
+You can create an Ethereum token with a smart contract. ERC-20 is a 
+standard that specifies how this token smart contract should work.
+
+Crowd Sale (ICO):
+
+ERC-20 tokens can be distributed in a variety of ways. One popular method is holding a crowd sale,
+or an initial coin offering (ICO). Crowd sales are a way for a company to raise capital for their business
+by creating their own ERC-20 token that can be purchased by investors with Ether.
+
+Whenever a crowd sale takes place, the company gets liquid capital in the form of Ether that was paid by the investors,
+as well as holding onto a reserved amount of the ERC-20 tokens that were sold in the crowd sale.
+
+The smart contract sets the price of the token in the crowd sale and governs how the crowd sale behaves.
+
+Crowd sales can take on all kinds of shapes and sizes. They can have multiple tiers or phases, like Pre ICO, ICO, and ICO Bonus phase. 
+Each of these tiers can happen at different points of time and can behave differently.
+
+They can also have a reserved amount of tokens that are not sold in the crowd sale. These reserves are usually set aside for specific members
+of each company like founders and advisors. These reserves can be a fixed amount of tokens or a percentage.
+
+Whenever a crowd sale ends, it can be finalized by an administrator. Whenever this happens, all of the reserved tokens will be distributed to the 
+appropriate accounts and the crowd sale will officially be over.
+
+How ERC20 Token works
+
+In the case of an ERC-20 token, the smart contract governs all of the behavior about how the token works,
+and keeps track of token ownership and account balances.
+
+ERC-20 is an API specification for how Ethereum tokens should be built. It is a community adopted standard that allows tokens to be supported
+in a variety of use cases. We want to build a token that is compliant with this standard so that it can be widely accepted. If we did not have 
+a standard like this, we could have endless ways to create tokens, and they might not be compatible with one another!
+
+Using the ERC-20 standard ensures that a token is compliant for the following use cases (and more):
+
+Wallet transfers - sending tokens from one account to another
+Buying and selling on cryptocurrency exchanges
+Purchasing tokens in an crowd sale (ICO) like we'll demonstrate in this tutorial
+
+ERC-20 standard the following ways:
+
+The function exists.
+It accepts the correct arguments.
+It fails if the user doesn't have enough tokens to transfer, i.e., an insufficient balance.
+It transfers the balance from the sender's account to the receiver's account.
+It triggers a sell event.
+It returns the correct value, e.g., true.
+
+The Ethereum Improvement Proposal github repository. 
+This is where all of the community discussion around Ethereum standards takes place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
